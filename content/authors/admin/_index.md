@@ -26,7 +26,7 @@ highlight_name: true
 role: Cybersecurity Major
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
+
 
 
 # Social network links
@@ -53,86 +53,64 @@ education:
 work:
   - position: Information Security Specialist
     company_name: Super Purposes
-    icon: 'image.png'
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2025-06-01
+    date_end: 2025-09-06
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Performed maintenance on company computers to ensure safety and integrity of company files and personal data.
+  - position: Admissions and Receptionist
+    company_name: Baton Rouge Community College
+    company_url: https://mybrcc.edu/
+    icon: ''
+    date_start: 2022-08-07
+    date_end: 2024-05-15
+    summary: |
+      Managed student confidential record and provided technical assistance for students navigating online enrollment.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python
         description: ''
-        percent: 95
+        percent: 45
         icon: code-bracket
-      - name: Machine Learning
+      - name: Java
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+        percent: 45
+        icon: code-bracket
+      - name: Linux
+        description: ''
+        percent: 45
+        icon: code-bracket
+      - name: Project Management
         description: ''
         percent: 85
-        icon: cloud
+        icon: file
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Cybersecurity Reading & Research
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        percent: 50
+      - name: Gaming
         description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+        percent: 9001   
+
 
 languages:
   - name: English
     percent: 100
   - name: Spanish
-    percent: 50
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I’m a Computer Science student specializing in Cybersecurity. Although I’m still early in my IT journey, I’ve already built a solid technical foundation in Linux and Windows administration, Python, and Java. Before tech, I worked as a cashier and a receptionist—roles that sharpened my customer‑service mindset, attention to detail, and ability to stay calm under pressure. Those experiences taught me that clear communication and patience are just as important as maintaining security.
