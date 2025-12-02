@@ -53,7 +53,7 @@ education:
 work:
   - position: Information Security Specialist
     company_name: Super Purposes
-    icon: ''
+    icon: '![alt text](image.png)'
     date_start: 2020-01-01
     date_end: ''
     summary: |2-
