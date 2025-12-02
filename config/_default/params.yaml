@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   branding:
     # Display name shown in navbar and general site display
-    name: "Your Name"
+    name: "Julian Madrigal"
     # Optional: Browser tab title (defaults to name if not set)
     # site_title: "Your Name | Research"
     # Optional: Legal/copyright entity (defaults to name if not set)
@@ -91,19 +91,6 @@ header:
     show_search: true
     show_mode_toggle: true
     show_theme_picker: true
-
-# ==============================================================================
-# SITE FOOTER
-# ==============================================================================
-footer:
-  copyright:
-    # Use {year} for current year, {name} for branding.organization, {license} for CC license link
-    notice: '© {year} {name}. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
 
 # ==============================================================================
 # LOCALIZATION
