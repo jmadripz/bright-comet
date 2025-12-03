@@ -87,7 +87,7 @@ skills:
       - name: Project Management
         description: ''
         percent: 85
-        icon: file
+        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
